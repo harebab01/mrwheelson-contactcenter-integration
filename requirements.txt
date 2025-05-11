@@ -1,0 +1,9 @@
+Flask==2.3.3
+requests==2.31.0
+mysql-connector-python==8.0.33
+python-dotenv==1.0.1
+PyMySQL==1.1.0
+xmltodict==0.13.0
+flask-cors==3.0.10          # Als je cross-origin requests wil toestaan
+gunicorn==21.2.0            # Voor productie deployment
+pytest==7.4.0               # Voor testen van scripts
